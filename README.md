@@ -1,6 +1,8 @@
 ###  Hello
 [![trophy](https://github-profile-trophy.vercel.app/?username=hitenkoku&theme=dark_lover&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Metrics](/github-metrics.svg)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hitenkoku&show_icons=true&theme=highcontrast&count_private=true&layout=compact" />
 </a>
