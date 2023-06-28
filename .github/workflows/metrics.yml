@@ -16,4 +16,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_achievements: yes
-          plugin_achievements_only: sponsor, maintainer, octonaut
+          plugin_archivements_threshold: X
+
