@@ -1,6 +1,9 @@
 ###  Hello
 [![trophy](https://github-profile-trophy.vercel.app/?username=hitenkoku&theme=dark_lover&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hitenkoku&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ![Metrics](/github-metrics.svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
